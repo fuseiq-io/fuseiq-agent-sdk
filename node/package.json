@@ -1,0 +1,18 @@
+{
+  "name": "@fuseiq/agent-sdk",
+  "version": "0.1.0",
+  "description": "Connect any AI agent to FuseIQ in 3 lines of code",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/abbasi8586/fuseiq-agent-sdk"
+  },
+  "keywords": ["fuseiq", "ai", "agent", "orchestration", "dashboard"],
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "node-fetch": "^2"
+  }
+}
