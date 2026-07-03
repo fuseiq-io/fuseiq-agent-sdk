@@ -16,6 +16,18 @@ agent.heartbeat("online", task="Processing emails")
 
 Your agent appears **live** in the [FuseIQ](https://fuseiq.io) dashboard — status, logs, costs, all in real-time.
 
+> **FuseIQ v2.2.6** — Outcome OS for governed agent fleets: Quick Start, Swarm Canvas, Library (Blueprints + Playbooks), Content Studio, and 157+ integrations. [Sign up free →](https://fuseiq.io/signup)
+
+### Ecosystem
+
+| Repo | Purpose |
+|------|---------|
+| **fuseiq-agent-sdk** (this repo) | Python + Node SDK — connect agents in 3 lines |
+| [fuseiq-templates](https://github.com/abbasi8586/fuseiq-templates) | Ready-to-run example agents |
+| [fuseiq-cli](https://github.com/abbasi8586/fuseiq-cli) | Terminal deploy and monitor |
+
+Docs: [fuseiq.io/docs](https://fuseiq.io/docs) · Help: [fuseiq.io/help](https://fuseiq.io/help) · Changelog: [fuseiq.io/changelog](https://fuseiq.io/changelog)
+
 ---
 
 ## Why FuseIQ?
@@ -139,8 +151,8 @@ Check out the [examples](./examples) directory:
 |------|--------|------|
 | Free | 2 | $0 |
 | Starter | 5 | $39/mo |
-| Pro | 25 | $79/mo |
-| Team Plus | 100 | $149/mo |
+| Pro | 25 | $99/mo |
+| Team Plus | 100 | $299/mo |
 | Enterprise | Unlimited | $349/mo |
 
 [See full pricing →](https://fuseiq.io/pricing)
