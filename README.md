@@ -3,9 +3,11 @@
 [![PyPI version](https://img.shields.io/pypi/v/fuseiq-agent)](https://pypi.org/project/fuseiq-agent/)
 [![npm version](https://img.shields.io/npm/v/@fuseiq/agent-sdk)](https://www.npmjs.com/package/@fuseiq/agent-sdk)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![GitHub Stars](https://img.shields.io/github/stars/abbasi8586/fuseiq-agent-sdk?style=social)](https://github.com/abbasi8586/fuseiq-agent-sdk)
+[![GitHub Stars](https://img.shields.io/github/stars/fuseiq-io/fuseiq-agent-sdk?style=social)](https://github.com/fuseiq-io/fuseiq-agent-sdk)
 
 **Connect any AI agent to a live dashboard. No infrastructure. 3 lines of code.**
+
+> ⭐ **Star this repo** to get SDK release notifications and help other builders find governed agent tooling. **Contributors welcome** — see [CONTRIBUTING.md](CONTRIBUTING.md) · [good first issues](https://github.com/fuseiq-io/fuseiq-agent-sdk/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
 
 ```python
 from fuseiq_agent import FuseIQAgent
@@ -23,8 +25,8 @@ Your agent appears **live** in the [FuseIQ](https://fuseiq.io) dashboard — sta
 | Repo | Purpose |
 |------|---------|
 | **fuseiq-agent-sdk** (this repo) | Python + Node SDK — connect agents in 3 lines |
-| [fuseiq-templates](https://github.com/abbasi8586/fuseiq-templates) | Ready-to-run example agents |
-| [fuseiq-cli](https://github.com/abbasi8586/fuseiq-cli) | Terminal deploy and monitor |
+| [fuseiq-templates](https://github.com/fuseiq-io/fuseiq-templates) | Ready-to-run example agents |
+| [fuseiq-cli](https://github.com/fuseiq-io/fuseiq-cli) | Terminal deploy and monitor |
 
 Docs: [fuseiq.io/docs](https://fuseiq.io/docs) · Help: [fuseiq.io/help](https://fuseiq.io/help) · Changelog: [fuseiq.io/changelog](https://fuseiq.io/changelog)
 
@@ -163,7 +165,7 @@ Check out the [examples](./examples) directory:
 
 We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
-- Report bugs via [GitHub Issues](https://github.com/abbasi8586/fuseiq-agent-sdk/issues)
+- Report bugs via [GitHub Issues](https://github.com/fuseiq-io/fuseiq-agent-sdk/issues)
 - Submit PRs for new features, examples, or docs
 - Join our [Discord](https://discord.gg/pDFgmqkf)
 
@@ -181,4 +183,4 @@ We welcome contributions! See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines.
 
 **Star this repo** ⭐ — help other developers find FuseIQ.
 
-[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fabbasi8586%2Ffuseiq-agent-sdk)](https://twitter.com/intent/tweet?text=Connect%20any%20AI%20agent%20to%20a%20live%20dashboard%20in%203%20lines%20of%20code.%20No%20infrastructure%20needed.&url=https://github.com/abbasi8586/fuseiq-agent-sdk)
+[![Twitter](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Ffuseiq-io%2Ffuseiq-agent-sdk)](https://twitter.com/intent/tweet?text=Connect%20any%20AI%20agent%20to%20a%20live%20dashboard%20in%203%20lines%20of%20code.%20No%20infrastructure%20needed.&url=https://github.com/fuseiq-io/fuseiq-agent-sdk)
