@@ -1,29 +1,45 @@
-# Contributing to FuseIQ Agent SDK
+# Contributing to fuseiq-agent-sdk
 
-We love contributions! Here's how you can help:
+MIT edges on GitHub · governed platform hosted at fuseiq.io · Discord is where builders rise together
 
-## Ways to Contribute
+## Ways to contribute
 
-- **Report bugs** — Open a GitHub issue with reproduction steps
-- **Add examples** — Submit a PR with a new agent example
-- **Improve docs** — Fix typos, add better explanations
-- **Add integrations** — Wrap popular frameworks (AutoGPT, LangChain, etc.)
-- **Star the repo** — Helps other developers find us
+- LangChain/LangGraph examples
+- docs
+- test coverage
+- adapter modules
+- **Star the repo** — raises visibility and unlocks OSS release priority
+- **Improve docs** — typos, walkthroughs, safety notes
 
-## Pull Request Process
+## Safety first
 
-1. Fork the repo
-2. Create a feature branch (`git checkout -b feature/amazing-idea`)
-3. Make your changes
-4. Test with a real FuseIQ API key
-5. Submit a PR with clear description
+- ✅ Star and fork MIT repos: fuseiq-agent-sdk, fuseiq-cli, fuseiq-templates
+- ✅ Open PRs with examples, docs, tests, and adapter modules
+- ✅ Report SDK/CLI bugs via GitHub issues with repro steps
+- ✅ Report platform security issues to hello@fuseiq.io (not public issues)
 
-## Code Style
+- ❌ Never commit live API keys, .env files, or customer workspace exports
+- ❌ Do not PR against the private platform monorepo (invite-only)
+- ❌ Do not attempt to access other users' workspaces or bypass auth
 
-- Python: PEP 8, type hints where possible
-- Node: Standard JS, async/await for async code
-- Keep it simple — 3 lines to connect is the goal
+## Pull request process
+
+1. Fork **fuseiq-io/fuseiq-agent-sdk** (sync `main` from upstream first)
+2. Branch: `feature/short-description`
+3. Keep changes scoped — no secrets, no platform monorepo files
+4. Test with your own FuseIQ API key from [fuseiq.io/signup](https://fuseiq.io/signup)
+5. Open PR with clear description + link to Discord thread if you paired in #builders-lounge
+
+## Community ladder
+
+1. **⭐ Star fuseiq-agent-sdk** — Release notifications · helps builders discover governed agent tooling
+2. **Run Quick Start on fuseiq.io** — Provable Outcome Card in ~60s · FUSEIQ1M for 1 month Pro
+3. **Fork + open a PR** — Contributor badge · good-first-issue queue · changelog credit
+4. **Showcase in Discord** — Community Hero path · feedback from core team · partner intros
+5. **Refer a founding partner** — Badge on fuseiq.io/partners · co-marketing slot
 
 ## Questions?
 
-Join our [Discord](https://discord.gg/pDFgmqkf) or email hello@fuseiq.io
+- [Discord #builders-lounge](https://discord.gg/pDFgmqkf)
+- [Good first issues](https://github.com/fuseiq-io/fuseiq-agent-sdk/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- hello@fuseiq.io
