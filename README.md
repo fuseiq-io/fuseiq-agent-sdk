@@ -18,7 +18,11 @@ agent.heartbeat("online", task="Processing emails")
 
 Your agent appears **live** in the [FuseIQ](https://fuseiq.io) dashboard — status, logs, costs, all in real-time.
 
-> **FuseIQ v2.2.6** — Outcome OS for governed agent fleets: Quick Start, Swarm Canvas, Library (Blueprints + Playbooks), Content Studio, and 157+ integrations. [Sign up free →](https://fuseiq.io/signup)
+> **FuseIQ** — Workflow automation & agent orchestration with **governed production ops**: Quick Start, Swarm Canvas, Eval Studio, HITL, Agent Wallet, and 157+ integrations. [Sign up free →](https://fuseiq.io/signup) · Code **FUSEIQ1M** → 1 month Pro
+
+### Forked this repo?
+
+You're welcome here. Open a PR for examples/adapters, say hi in [Discord #builders-lounge](https://discord.gg/pDFgmqkf), or star upstream so you get release notifications. The hosted platform (billing, Swarm engine, marketplace) stays at [fuseiq.io](https://fuseiq.io) — this SDK is the MIT edge.
 
 ### Ecosystem
 
