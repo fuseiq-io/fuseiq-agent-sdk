@@ -18,7 +18,7 @@ agent.heartbeat("online", task="Processing emails")
 
 Your agent appears **live** in the [FuseIQ](https://fuseiq.io) dashboard — status, logs, costs, all in real-time.
 
-> **FuseIQ** — Workflow automation & agent orchestration with **governed production ops**: Quick Start, Swarm Canvas, Eval Studio, HITL, Agent Wallet, and 157+ integrations. [Sign up free →](https://fuseiq.io/signup) · Code **FUSEIQ1M** → 1 month Pro
+> **FuseIQ** — Workflow automation & agent orchestration with **governed production ops**: Quick Start, Swarm Canvas, Eval Studio, HITL, Agent Wallet, and 157+ integrations. [Sign up free →](https://fuseiq.io/signup) — 3-day Pro trial · Discord community perks in **#resources**
 
 ### Forked this repo?
 
