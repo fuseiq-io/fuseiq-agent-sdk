@@ -5,7 +5,8 @@ Runnable example showing a **LangChain agent loop** with FuseIQ heartbeats every
 ## Prerequisites
 
 - Python 3.10+
-- FuseIQ API key ([sign up](https://fuseiq.io/signup) · code `FUSEIQ1M`)
+- FuseIQ API key ([sign up](https://fuseiq.io/signup) — 3-day Pro trial on signup)
+- Optional: join [Discord](https://discord.gg/pDFgmqkf) for community perks (code in `#resources` only)
 - Optional: OpenAI API key for a live LLM run
 
 ## Install
