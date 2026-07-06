@@ -28,7 +28,7 @@ We are **not** competing on self-hosting the full stack. We compete on **governe
 
 1. ⭐ Star **fuseiq-agent-sdk**
 2. Quick Start → [fuseiq.io/quick-start](https://fuseiq.io/quick-start)
-3. Signup → [fuseiq.io/signup](https://fuseiq.io/signup) (code **FUSEIQ1M**)
+3. Signup → [fuseiq.io/signup](https://fuseiq.io/signup) (3-day Pro trial) · community code in Discord **#resources** only
 4. Discord → [discord.gg/pDFgmqkf](https://discord.gg/pDFgmqkf)
 
 Questions: hello@fuseiq.io
