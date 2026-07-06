@@ -30,13 +30,26 @@ MIT edges on GitHub · governed platform hosted at fuseiq.io · Discord is where
 4. Test with your own FuseIQ API key from [fuseiq.io/signup](https://fuseiq.io/signup)
 5. Open PR with clear description + link to Discord thread if you paired in #builders-lounge
 
+## Staging review (maintainer-owned main)
+
+External contributions follow **vet → staging → main**:
+
+1. Open a PR from your fork (any base — we route to staging review)
+2. Maintainers acknowledge and run verification (secrets, scope, offer-policy)
+3. Approved PRs merge to `staging` first
+4. After verification, maintainers promote to `main`
+
+**Only maintainers** merge to `main`. Contributors earn badges and changelog credit after promotion.
+
+Pair in [Discord #builders-lounge](https://discord.gg/pDFgmqkf) before large changes.
+
 ## Community ladder
 
 1. **⭐ Star fuseiq-agent-sdk** — Release notifications · helps builders discover governed agent tooling
-2. **Run Quick Start on fuseiq.io** — Provable Outcome Card in ~60s · FUSEIQ1M for 1 month Pro
+2. **Run Quick Start on fuseiq.io** — Provable Outcome Card in ~60s · 3-day Pro trial on signup
 3. **Fork + open a PR** — Contributor badge · good-first-issue queue · changelog credit
-4. **Showcase in Discord** — Community Hero path · feedback from core team · partner intros
-5. **Refer a founding partner** — Badge on fuseiq.io/partners · co-marketing slot
+4. **Showcase in Discord** — Community code in #resources → 1 month Pro on Billing · Community Hero path · partner intros
+5. **Refer a distribution partner** — Badge on fuseiq.io/partners · co-marketing slot
 
 ## Questions?
 
